@@ -14,5 +14,5 @@ propertyname:definition
 
 Full example:
 ~~~
-num:1-10|cat:new-old-revised|magnitude:0.1-7.0
+"num:1-10|cat:new-old-revised|magnitude:0.1-7.0"
 ~~~
