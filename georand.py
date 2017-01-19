@@ -1,6 +1,4 @@
 
-#TODO: Add geojson polygons or linestrings for restriction
-
 import argparse
 import json
 import random
